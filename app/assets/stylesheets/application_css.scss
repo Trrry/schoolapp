@@ -1,0 +1,57 @@
+// Place all the styles related to the Bid controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+button:focus {
+  outline: 0;
+}
+.navbar .dropdown-menu .form-control {
+  width: 200px;
+}
+#reg_button{
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 6px;
+  padding-right: 6px;
+  text-decoration: none;
+  color: grey;
+  border: 1px solid grey;
+}
+#reg_button:hover{
+  color: black;
+}
+#login_button{
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 6px;
+  padding-right: 6px;
+  text-decoration: none;
+  color: dodgerblue;
+  border: 1px solid dodgerblue;
+}
+#login_button:hover{
+  color: blue;
+}
+#logout_button{
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 6px;
+  padding-right: 6px;
+  text-decoration: none;
+  color: pink;
+  border: 1px solid pink;
+}
+#logout_button:hover{
+  color: red;
+}
+#profile_button{
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 6px;
+  padding-right: 6px;
+  text-decoration: none;
+  color: grey;
+  border: 1px solid grey;
+}
+#profile_button:hover{
+  color: black;
+}
